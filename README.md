@@ -1,4 +1,4 @@
-# Ultimate WiFi Audit Script v1.2 - Ultimate Edition 2025 ☠︎
+# Ultimate WiFi Audit Script v1.2 - Ultimate Edition 2025 ☠︎ 
 
 Этот Bash-скрипт предназначен для комплексного аудита WiFi-сетей и проведения тестов безопасности. Он объединяет множество функций для сканирования, мониторинга и анализа беспроводных сетей, а также для проведения атак (например, bruteforce, deauth, WPS).
 
